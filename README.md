@@ -1,2 +1,2 @@
-# Influxdb-Telegraf-And-Grafana-using-Docker
-Influxdb,Telegraf And Grafana Docker Compose
+# Influxdb-and-Telegraf-using-Docker
+Influxdb and Telegraf Docker Compose
